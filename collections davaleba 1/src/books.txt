@@ -1,0 +1,5 @@
+HarryPotter 320
+TheHobbit 295
+GameOfThrones 850
+Inferno 500
+WarAndPeace 1225
