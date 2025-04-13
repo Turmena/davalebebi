@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.shape.Line?>
+
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="rame">
+   <children>
+      <Circle fill="#ffdb21" layoutX="286.0" layoutY="200.0" radius="100.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="5.0" />
+      <Circle layoutX="255.0" layoutY="182.0" radius="9.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle layoutX="321.0" layoutY="182.0" radius="9.0" stroke="BLACK" strokeType="INSIDE" />
+      <Line endX="318.0" endY="243.0" startX="257.0" startY="243.0" strokeWidth="5.0" />
+   </children>
+</AnchorPane>
